@@ -144,3 +144,13 @@ Se sugiere para esta tarea utilice diagramas BPM, diagramas de actividades, o di
 
 
 
+## Buyer Persona
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/Buyer_person.png" width="500vw" />
+
+
+## Publico Objetivo
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/Publico_objetivo.png" width="700vw" />
+
+
