@@ -154,3 +154,22 @@ Se sugiere para esta tarea utilice diagramas BPM, diagramas de actividades, o di
 <img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/Publico_objetivo.png" width="700vw" />
 
 
+
+
+## Crea tu primer Wireframe UX
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/UX/login_moc.png" width="700vw" />
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/UX/Usuarios_moc.png" width="700vw" />
+
+
+## Crea el UI
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/UI/LogIn.png" width="700vw" />
+
+<img alt="center" src="https://github.com/JairFraga/LaunchX_Semana1/blob/main/UI/Gestion_usuario.png" width="700vw" />
+
+
+
+
+
